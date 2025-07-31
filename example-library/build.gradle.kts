@@ -12,8 +12,8 @@ repositories {
 }
 
 dependencies {
-    api("com.squareup.okhttp3:okhttp:5.1.0")
     api("com.squareup.moshi:moshi:1.15.2")
+    api("com.squareup.okhttp3:okhttp:5.1.0")
 }
 
 java {
