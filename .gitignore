@@ -1,0 +1,6 @@
+.gradle
+.kotlin
+build
+.venv
+.idea
+*.nbconvert.*
